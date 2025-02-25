@@ -1,19 +1,5 @@
 # SMS
 SMS (SCHOOL MANAGEMENT SYSTEM) 
-C'est une application de gestion d'etablissement qui permet de gerer les etudiants commencant de  l'inscription jusqu'a la gestion des notes
-en passant par la gestion de la comptablite
-
-les modules devellopes sont:
-
-* gestion des inscriptions
-* gestion des matieres
-* gestion des classes
-* gestion des notes
-* gestion de la comptabilite
-* gestion des utilisateurs
-* gestion des acces
-
-version Laravel 7.x
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
